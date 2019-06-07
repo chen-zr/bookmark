@@ -75,16 +75,12 @@
 
 - [jdk6中文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh):oschina JDK6中文帮助文档
 - [jdk7英文文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4):oschina jdk7 英文
-- [hibernate](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html):官网原文
-- [hibernate search](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/):官网原文
 - [freemarker](http://freemarker.foofun.cn/): java模板引挚
 - [dubbo](http://dubbo.io/) 阿里巴巴dubbo
 - [druid](https://github.com/alibaba/druid):阿里巴巴开源数据源
 - [jersey](https://jersey.java.net/index.html) java restfull 框架
-- [cobar](https://github.com/alibaba/cobar):基于MySQL的分布式数据库服务中间件
 - [mycat](https://github.com/MyCATApache/Mycat-Server):Mycat是基于开源cobar演变而来
 - [idea使用教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial):idea 使用详情教程
-- [quartz2.2中文文档](https://xuzongbao.gitbooks.io/quartz/content/):quartz 2.2中文文档
 - [2018 Java 后端工程师的书单推荐](http://www.iocoder.cn/Architecture/books-recommended/):2018 Java 后端工程师的书单推荐
 - [源代码分析](http://www.iocoder.cn/):知名项目源码阅读
 
@@ -131,7 +127,6 @@
 ## 好用的工具
 
 - [x-net](https://github.com/XX-net/XX-Net):x-net 自由的使用google你懂的。
-- [百度网盘下载工具](https://lai.yuweining.cn/archives/1336/) : 不限速下载
 
 ## open api
 
@@ -139,12 +134,21 @@
 
 ## 阅读
 
-## 优秀博客
+## 优秀博客 blog
 - [程序猿DD](http://blog.didispace.com/) : spring boot 、spring cloud
 - [纯洁的微笑](http://blog.didispace.com/) : spring boot 、spring cloud
 - [并发编程](http://ifeve.com/) java并发编程
 - [linux运维](http://www.ha97.com/)
-
+---
+空闲时间筛选以下 blog 内容
+- [ilanyu's Blog](http://blog.lanyus.com/) 
+- [hocgin (๑\`灬\´๑)](https://hocg.in/)
+- [waylau](https://waylau.com/)
+- [花钱的年华](http://calvin1978.blogcn.com/)
+---
+## Spring Cloud
+- [Spring Cloud入门到实战系列教程](http://cxytiandi.com/blog/detail/17470)
+- [SpringCloud 中文网站](https://springcloud.cc/)
 
 ## 技术阅读
 - [阿里巴巴数据库内核月报](http://mysql.taobao.org/monthly/)
